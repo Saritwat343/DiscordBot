@@ -1,6 +1,3 @@
-# 984073100431872072 // client
-# OTg0MDczMTAwNDMxODcyMDcy.GpOjGn.RsbnBasalNs6GWfOBvmBF-kh4V981qUlWqWYK8 // token
-
 import discord
 from discord.utils import get
 from discord.ext import commands
@@ -109,4 +106,4 @@ async def resume(ctx):
 
     voice.resume()
 
-bot.run('OTg0MDczMTAwNDMxODcyMDcy.G7TaTQ.N6xvxgZJzNSBNPycEd7tw5C00KiG-DQGxStlUE')
+bot.run('Token')
